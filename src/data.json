@@ -1,0 +1,83 @@
+[
+  
+     {
+        "id": 1,
+        "name": "Abu Simbel Temple",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGivlNPb4Neg50I0yhZAHIww7bJ3V_9Qsnz4Pgc1ZmHIyKQhyc"
+      },
+      {
+        "id": 2,
+        "name": "Dendera Temple",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrYWm3C8dXn0-1Uqhudftgxl__18x9HorhyrJrmp7FUpS-M1-"
+      },
+      {
+        "id": 3,
+        "name": "Hatshepsut Temple Luxor",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrLxe23Tr87l40FpWsAY8Ncq82n-Ap0u-cWrFXaG95LbILJhwe"
+      },
+      {
+        "id": 4,
+        "name": "Diving Red Sea",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "http://skyredsea.com/wp-content/uploads/2019/10/skyredsea-daily-dive-870x555.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Philae Temple Island Aswan",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqkeXXQtdfFFd1EYqho8Wo7KuWqODxUYBnK6wGN34PDKvMxCr5"
+      },
+      {
+        "id": 5,
+        "name": "Hall Karnak Temple Luxor",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZf1LhaAwk39JY8VH_tMu1lnZG6SMXYeHmDPJs4NQ1UXIVE8ws"
+      },
+      {
+        "id": 6,
+        "name": "Siwa Oasis",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWXJ05FDcpr1M22GD3SqQCRFBGdMBj4oPfefrCKXNy2IU2h6OX"
+      },
+      {
+        "id": 7,
+        "name": "Saqqara - Step Pyramid",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmiGeW00ZrykeHx7x4QhVasxhPGSTyWyac6dGMnmYxh5UC1oxe"
+      },  {
+        "id": 8,
+        "name": "Valley Of The Kings",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 150,
+        "price": 150,
+        "image": "https://www.annees-de-pelerinage.com/wp-content/uploads/2018/04/valley-of-the-kings-egypt-643x429.jpg"
+      }
+]
